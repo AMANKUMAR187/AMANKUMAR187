@@ -10,7 +10,7 @@
 <br
 
 # 💫 About Me:
-I'm currently learning machine learning<br>I'm looking for any collaboration on Any project<br>Ask me about flutter,Android development<br>How to contact me kumarman187187@gmail.com<br><br>
+I'm currently learning machine learning<br>I'm looking for any collaboration on Any project<br>Ask me about flutter,Android development<br>Contact info -> kumarman187187@gmail.com<br><br>
 
 
 ## 🌐 Socials:
@@ -19,7 +19,6 @@ I'm currently learning machine learning<br>I'm looking for any collaboration on 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AMANKUMAR187&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AMANKUMAR187&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AMANKUMAR187&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 

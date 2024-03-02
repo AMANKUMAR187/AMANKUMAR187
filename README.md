@@ -1,5 +1,13 @@
 ### Hi there 👋
+<p align="center"><img src="animation.gif" width="35%"></p>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=4500&color=%2338C2FF&size=50&height=200&width=800&lines=Heyyy!+I'm+AMAN+KUMAR;+CSE+Undergraduate+at+BIT+Mesra;">
+</p>
+
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br
 
 # 💫 About Me:
 I'm currently learning machine learning<br>I'm looking for any collaboration on Any project<br>Ask me about flutter,Android development<br>How to contact me kumarman187187@gmail.com<br><br>
